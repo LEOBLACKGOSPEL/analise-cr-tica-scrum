@@ -1,2 +1,3 @@
-# analise-cr-tica-scrum
+# analise-critica-scrum
 Desafio Final - Entrega Scrum Master 
+
